@@ -1,4 +1,4 @@
-### Javascript Deep Dive
+# Javascript Deep Dive
 
 ## 1. 목적
 
