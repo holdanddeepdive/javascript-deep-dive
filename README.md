@@ -1,6 +1,5 @@
 ### Javascript Deep Dive
 
----
 ## 1. 목적
 
 ## 2. 진행 방식
