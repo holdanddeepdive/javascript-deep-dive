@@ -29,4 +29,4 @@
 2 | 4~6 | [#GC](https://github.com/hyunahOh/javascript-deep-dive/issues/4)<br> [#semicolon](https://github.com/hyunahOh/javascript-deep-dive/issues/5) | Choozii
 3 | 7~9 | [#issue](https://github.com/hyunahOh/javascript-deep-dive/issues/6) | sbyeol3
 4 | 10~12 | [#10, 11](https://github.com/hyunahOh/javascript-deep-dive/issues/7) <br> [#12](https://github.com/hyunahOh/javascript-deep-dive/issues/8)| humonnom
-5 | 13~15 | | hyunahOh
+5 | 13~15 | [#동적스코프,정적스코프](https://github.com/hyunahOh/javascript-deep-dive/issues/11) <br> [#14,15](https://github.com/hyunahOh/javascript-deep-dive/issues/12)| hyunahOh
