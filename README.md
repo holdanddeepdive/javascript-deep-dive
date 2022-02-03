@@ -31,3 +31,4 @@
 4 | 10~12 | [#10, 11](https://github.com/hyunahOh/javascript-deep-dive/issues/7) <br> [#12](https://github.com/hyunahOh/javascript-deep-dive/issues/8)| humonnom
 5 | 13~15 | [#동적스코프,정적스코프](https://github.com/hyunahOh/javascript-deep-dive/issues/11) <br> [#14,15](https://github.com/hyunahOh/javascript-deep-dive/issues/12)| hyunahOh
 6 | 16~18 | [#프로퍼티vs어트리뷰트](https://github.com/hyunahOh/javascript-deep-dive/issues/13) <br> [#17](https://github.com/hyunahOh/javascript-deep-dive/issues/14) <br> [#consoleApi](https://github.com/hyunahOh/javascript-deep-dive/issues/15) | Choozii
+7 | 19~21 | [#프로토타입 정리](https://github.com/hyunahOh/javascript-deep-dive/issues/16) | sbyeol3
