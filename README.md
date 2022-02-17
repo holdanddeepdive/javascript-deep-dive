@@ -34,4 +34,4 @@
 7 | 19 | [#프로토타입 정리](https://github.com/hyunahOh/javascript-deep-dive/issues/16) | sbyeol3
 8 | 20~22 | | humonnom
 9 | 23 | [#23장 실행컨텍스트](https://github.com/hyunahOh/javascript-deep-dive/issues/20) <br> [#23장 실행컨텍스트 헷갈리던 개념 정리](https://github.com/hyunahOh/javascript-deep-dive/issues/21) | hyunahOh
-
+10 | 24 | | Choozii
