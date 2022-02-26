@@ -35,4 +35,4 @@
 8 | 20~22 | [#20장정리](https://github.com/hyunahOh/javascript-deep-dive/issues/17) [#21장정리](https://github.com/hyunahOh/javascript-deep-dive/issues/18) [#22장정리](https://github.com/hyunahOh/javascript-deep-dive/issues/19) | humonnom
 9 | 23 | [#23장 실행컨텍스트](https://github.com/hyunahOh/javascript-deep-dive/issues/20) <br> [#23장 실행컨텍스트 헷갈리던 개념 정리](https://github.com/hyunahOh/javascript-deep-dive/issues/21) | hyunahOh
 10 | 24 | [#24장 클로저](https://github.com/hyunahOh/javascript-deep-dive/issues/22)<br/>| Choozii
-11 | 25 | [#25장 클래스]| humonnom
+11 | 25 | [#25장 클래스](https://github.com/hyunahOh/javascript-deep-dive/issues/23)| humonnom
