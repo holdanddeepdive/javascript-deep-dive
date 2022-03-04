@@ -36,3 +36,4 @@
 9 | 23 | [#23장 실행컨텍스트](https://github.com/hyunahOh/javascript-deep-dive/issues/20) <br> [#23장 실행컨텍스트 헷갈리던 개념 정리](https://github.com/hyunahOh/javascript-deep-dive/issues/21) | hyunahOh
 10 | 24 | [#24장 클로저](https://github.com/hyunahOh/javascript-deep-dive/issues/22)<br/> [#24장 클로져](https://github.com/hyunahOh/javascript-deep-dive/issues/24)| Choozii
 11 | 25 | [#25장 클래스](https://github.com/hyunahOh/javascript-deep-dive/issues/23)| humonnom
+12 | 26 + JS articles | | sbyeol3
