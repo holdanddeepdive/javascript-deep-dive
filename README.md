@@ -40,5 +40,5 @@
 13 | 27 |27장 배열 #29, #30, #31| hyunahOh
 14 | 28~31 |[[아티클]타임존 관련 아티클](https://github.com/hyunahOh/javascript-deep-dive/issues/32)| Choozii
 15 | 32~36 | [#32](https://github.com/hyunahOh/javascript-deep-dive/issues/33) [#33](https://github.com/hyunahOh/javascript-deep-dive/issues/34) [#34](https://github.com/hyunahOh/javascript-deep-dive/issues/35)| humonnom
-16| 37~39(700p) | | sbyeol3
-
+16| 37~39(700p) | [#37](https://github.com/hyunahOh/javascript-deep-dive/issues/36) [#38](https://github.com/hyunahOh/javascript-deep-dive/issues/37) [#39](https://github.com/hyunahOh/javascript-deep-dive/issues/38) | sbyeol3
+17 | 39 | | hyunahOh
