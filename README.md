@@ -37,8 +37,8 @@
 10 | 24 | [#24장 클로저](https://github.com/hyunahOh/javascript-deep-dive/issues/22)<br/> [#24장 클로져](https://github.com/hyunahOh/javascript-deep-dive/issues/24)| Choozii
 11 | 25 | [#25장 클래스](https://github.com/hyunahOh/javascript-deep-dive/issues/23)| humonnom
 12 | 26 + JS articles | [26장 ES6 함수의 추가기능 정리](https://github.com/hyunahOh/javascript-deep-dive/issues/26)<br />[\[아티클\] 프론트엔드에서 TDD가 가능하다는 것을 보여드립니다.](https://github.com/hyunahOh/javascript-deep-dive/issues/27)<br />[[아티클] 자바스크립트 원시값의 비밀?!](https://github.com/hyunahOh/javascript-deep-dive/issues/28) | sbyeol3
-13 | 27 |27장 배열 #29, #30, #31| hyunahOh
+13 | 27 |27장 배열 [#29](https://github.com/hyunahOh/javascript-deep-dive/issues/29), [#30](https://github.com/hyunahOh/javascript-deep-dive/issues/30), [#31](https://github.com/hyunahOh/javascript-deep-dive/issues/31)| hyunahOh
 14 | 28~31 |[[아티클]타임존 관련 아티클](https://github.com/hyunahOh/javascript-deep-dive/issues/32)| Choozii
 15 | 32~36 | [#32](https://github.com/hyunahOh/javascript-deep-dive/issues/33) [#33](https://github.com/hyunahOh/javascript-deep-dive/issues/34) [#34](https://github.com/hyunahOh/javascript-deep-dive/issues/35)| humonnom
 16| 37~39(700p) | [#37](https://github.com/hyunahOh/javascript-deep-dive/issues/36) [#38](https://github.com/hyunahOh/javascript-deep-dive/issues/37) [#39](https://github.com/hyunahOh/javascript-deep-dive/issues/38) | sbyeol3
-17 | 39 | | hyunahOh
+17 | 39 | [39장 DOM](https://github.com/hyunahOh/javascript-deep-dive/issues/39) | hyunahOh
