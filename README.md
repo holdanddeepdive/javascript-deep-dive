@@ -43,3 +43,4 @@
 16| 37~39(700p) | [#37](https://github.com/hyunahOh/javascript-deep-dive/issues/36) [#38](https://github.com/hyunahOh/javascript-deep-dive/issues/37) [#39](https://github.com/hyunahOh/javascript-deep-dive/issues/38) | sbyeol3
 17 | 39 | [39장 DOM](https://github.com/hyunahOh/javascript-deep-dive/issues/39), [HTML attribute vs Dom property in react](https://github.com/hyunahOh/javascript-deep-dive/issues/40) | hyunahOh
 18 | 40 | | Choozii
+19 | 41, 42, 43 | | humonnom
