@@ -44,3 +44,4 @@
 17 | 39 | [39장 DOM](https://github.com/hyunahOh/javascript-deep-dive/issues/39), [HTML attribute vs Dom property in react](https://github.com/hyunahOh/javascript-deep-dive/issues/40) | hyunahOh
 18 | 40 | [#41](https://github.com/hyunahOh/javascript-deep-dive/issues/41), [#42](https://github.com/hyunahOh/javascript-deep-dive/issues/42)| Choozii
 19 | 41, 42, 43 | [#43장 타이머](https://github.com/hyunahOh/javascript-deep-dive/issues/43), [#44장 비동기 프로그래밍](https://github.com/hyunahOh/javascript-deep-dive/issues/44), [#45장 Ajax](https://github.com/hyunahOh/javascript-deep-dive/issues/45)| humonnom
+20 | 44, 45, 46 | | sbyeol3
